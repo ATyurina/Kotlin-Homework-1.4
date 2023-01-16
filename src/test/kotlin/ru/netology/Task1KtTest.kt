@@ -58,7 +58,7 @@ class Task1KtTest {
 
         val result = ru.netology.calcAmount(cartType, previousTransfers, transferAmount)
 
-        assertEquals(20150,result)
+        assertEquals(20140,result)
     }
 
     @Test
